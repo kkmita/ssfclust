@@ -1,0 +1,9 @@
+Package: ssfclust
+Title: Semi-Supervised Fuzzy Clustering
+Version: 0.1.0
+Authors@R: person("Kamil", "Kmita", email = "dummy@email", role = c("aut", "cre"))
+Description: A package to provide SSFC models
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
